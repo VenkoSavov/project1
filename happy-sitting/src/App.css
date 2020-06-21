@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+.left-column{
+  float: left;
+  width: 50%;
+}
+
+.right-column{
+  float: left;
+  width: 50%;
+}

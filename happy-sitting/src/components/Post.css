@@ -1,0 +1,12 @@
+.Post{
+    display: flex;
+    padding: 10px;
+    margin: 5px;
+    text-align: left;
+    border: 1px solid  rgba(200, 200, 200, 0.301);
+    border-radius:  5px;
+}
+img{
+   height: 600px;
+   width: 400px;
+}

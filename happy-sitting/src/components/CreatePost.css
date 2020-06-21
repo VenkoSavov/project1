@@ -1,0 +1,10 @@
+.form-container{
+    margin: 50px;
+    padding: 50px;
+    position: fixed;
+    border: grey solid 1px;
+    font-weight: 600;
+    font-size: 15pt;
+    text-align: left;
+    width: 25%;
+}
